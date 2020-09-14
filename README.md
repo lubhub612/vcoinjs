@@ -18,7 +18,7 @@ yarn test
 ```javascript
 var vcoinjs = require('vcoinjs')
 
-var priv = vcoin.address.mkPrivKey(blvseed)
+var priv = vcoin.address.mkPrivKey(vccseed)
 
 //var priv = bitcoinlovejs.address.mkPrivKey('witch collapse practice feed shame open despair creek road again ice least')
     
